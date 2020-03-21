@@ -12,6 +12,7 @@ form {
 
 fieldset {
   border: none;
+  padding: 0;
 }
 
 .logo {
@@ -20,4 +21,16 @@ fieldset {
 
 .card {
   background-color: #fff;
+}
+
+table {
+  background-color: #fff;
+}
+
+table caption {
+  background-color: #fff;
+}
+
+.table-wrapper {
+  overflow: visible;
 }
