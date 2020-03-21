@@ -1,0 +1,23 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+form {
+  background-color: #efefef;
+}
+
+fieldset {
+  border: none;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.card {
+  background-color: #fff;
+}
