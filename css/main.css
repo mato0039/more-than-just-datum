@@ -6,13 +6,8 @@ header {
   background-color: #ddd;
 }
 
-form {
+main {
   background-color: #efefef;
-}
-
-fieldset {
-  border: none;
-  padding: 0;
 }
 
 img {
