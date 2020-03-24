@@ -25,12 +25,17 @@ fieldset {
 
 table {
   background-color: #fff;
+  min-width: 50em;
 }
 
 table caption {
   background-color: #fff;
 }
 
-.table-wrapper {
-  overflow: visible;
+@media only screen and (min-width: 38em) {
+
+  .table-wrapper {
+    overflow: visible;
+  }
+
 }
