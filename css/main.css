@@ -19,6 +19,7 @@ img {
 }
 
 .search-icon {
+  left: .5rem;
   position: absolute;
 }
 
