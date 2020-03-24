@@ -14,6 +14,14 @@ img {
   max-width: 200px;
 }
 
+.relative {
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+}
+
 .card {
   background-color: #fff;
 }
