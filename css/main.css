@@ -32,10 +32,6 @@ table caption {
   background-color: #fff;
 }
 
-@media only screen and (min-width: 38em) {
-
-  .table-wrapper {
-    overflow: visible;
-  }
-
+.table-wrapper {
+  overflow: visible;
 }
